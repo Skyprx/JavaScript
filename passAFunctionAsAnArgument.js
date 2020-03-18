@@ -1,2 +1,2 @@
 function func() { return (17 * 19); } 
-console.log(func());  
+console.log(func());   
