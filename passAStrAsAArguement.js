@@ -1,2 +1,2 @@
 var str = "jpw"; 
-console.log(str); 
+console.log(str);  

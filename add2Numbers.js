@@ -1,3 +1,3 @@
-var sum = 20 + 0;
+var sum = 20 + 0; 
 
 console.log(sum)
