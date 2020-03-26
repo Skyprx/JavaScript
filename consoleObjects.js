@@ -43,7 +43,6 @@ console.log()
 console.profile() 
 //Starts the browser's built-in profiler (for example, the Firefox performance tool). You can specify an optional name for the profile.
 
-
 console.profileEnd()
 //Stops the profiler. You can see the resulting profile in the browser's performance tool (for example, the Firefox performance tool).
 
