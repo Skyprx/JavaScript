@@ -1,9 +1,7 @@
 # JavaScript
-
 Learning Javascript ⚡️
 
 # Learning
-
 https://www.javascript.com/
 
 https://www.w3schools.com/js/
@@ -15,5 +13,4 @@ https://www.codecademy.com/catalog/language/javascript
 https://javascript.info/
 
 # Information
-
 https://en.wikipedia.org/wiki/JavaScript
