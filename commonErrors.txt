@@ -1,3 +1,5 @@
+Source: https://flaviocopes.com/javascript-automatic-semicolon-insertion/
+
 The rules of JavaScript Automatic Semicolon Insertion
 
 The JavaScript parser will automatically add a semicolon when, during the parsing of the source code, it finds these particular situations:
