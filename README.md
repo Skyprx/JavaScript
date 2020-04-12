@@ -14,3 +14,5 @@ https://javascript.info/
 
 # Information
 https://en.wikipedia.org/wiki/JavaScript
+
+[![](https://img.shields.io/badge/Made%20With%20❤️%20By-r1-yellow)](https://github.com/r1)
