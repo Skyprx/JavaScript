@@ -14,7 +14,6 @@ console.log(isPalindrome(10))
 
 // Reads 01 from right to left. Therefore it will return false since it's not a palindrome number.
 
-
 console.log(isPalindrome(121))
 
 // Reads 121 from right to left. This is a palindrome number and will return true.
