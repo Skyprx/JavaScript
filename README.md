@@ -12,6 +12,10 @@ https://www.codecademy.com/catalog/language/javascript
 
 https://javascript.info/
 
+# Learning Games
+
+https://screeps.com/
+
 # Information
 https://en.wikipedia.org/wiki/JavaScript
 
