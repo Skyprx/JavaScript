@@ -15,7 +15,6 @@ https://javascript.info/
 https://www.freecodecamp.org/learn
 
 # Practice
-
 https://leetcode.com/
 
 https://www.hackerrank.com/
