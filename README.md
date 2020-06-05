@@ -21,6 +21,8 @@ https://www.hackerrank.com/
 
 https://edabit.com/challenges/javascript
 
+https://www.codingame.com/home
+
 # Learning Games
 https://screeps.com/
 
