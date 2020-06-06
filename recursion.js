@@ -4,4 +4,6 @@ const factorial = number => {
       product *= i;
     }
     return product;
-  };  
+};  
+
+console.log(factorial(7))

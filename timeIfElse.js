@@ -4,4 +4,4 @@ if (time < 10) {
     greeting = "Good day";
   } else {
     greeting = "Good evening";
-  }
+}

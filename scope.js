@@ -2,7 +2,7 @@
 
 function myFunction() {
     var carName = "bmw";
-  
+
     // code here CAN use carName
   
-  }
+}
