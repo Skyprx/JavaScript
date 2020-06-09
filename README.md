@@ -14,6 +14,14 @@ https://javascript.info/
 
 https://www.freecodecamp.org/learn
 
+https://code.org
+
+https://sololearn.com
+
+https://edx.org
+
+https://www.udemy.com/
+
 # Practice
 https://leetcode.com/
 
