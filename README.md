@@ -1,7 +1,6 @@
-# JavaScript
-Learning Javascript ⚡️
+# Learning JavaScript, collection of JavaScript scripts ⚡️
 
-# Learning
+## Learning
 https://www.javascript.com/
 
 https://www.w3schools.com/js/
@@ -22,7 +21,7 @@ https://edx.org
 
 https://www.udemy.com/
 
-# Practice
+## Practice
 https://leetcode.com/
 
 https://www.hackerrank.com/
@@ -31,10 +30,10 @@ https://edabit.com/challenges/javascript
 
 https://www.codingame.com/home
 
-# Learning Games
+## Learning Games
 https://screeps.com/
 
-# Information
+## Information
 https://en.wikipedia.org/wiki/JavaScript
 
 [![](https://img.shields.io/badge/Made%20With%20❤️%20By-r1-yellow)](https://github.com/r1)

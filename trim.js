@@ -1,3 +1,3 @@
-let str = "       trim() removes whitespace from string          "
+let str = "       trim() removes the leading and trailing white space from string          "
 
 console.log(str.trim())

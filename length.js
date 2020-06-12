@@ -1,4 +1,5 @@
 var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
-var sln = txt.length; 
 
-console.log(sln);
+console.log(txt.length);
+
+// Returns the length of the string
