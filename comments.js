@@ -2,4 +2,4 @@
 
 /*
 Multi-line comment
- */
+*/

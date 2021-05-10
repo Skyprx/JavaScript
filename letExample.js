@@ -1,7 +1,10 @@
 var x = 10;
-// Here x is 10
+
 {
-  let x = 2;
-  // Here x is 2
+  let i = 2;
 }
 // Here x is 10 
+// Here i is not defined
+
+console.log(x);
+// console.log(i);
